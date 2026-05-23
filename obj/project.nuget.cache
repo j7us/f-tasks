@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsD9LtNLeto=",
+  "success": true,
+  "projectFilePath": "/Users/igooorrrrr/Desktop/занятия/f-tasks/f-tasks.fsproj",
+  "expectedPackageFiles": [
+    "/Users/igooorrrrr/.nuget/packages/fsharp.core/10.1.300/fsharp.core.10.1.300.nupkg.sha512"
+  ],
+  "logs": []
+}
