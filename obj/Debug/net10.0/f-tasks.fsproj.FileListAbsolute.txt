@@ -27,3 +27,4 @@
 /Users/igooorrrrr/Desktop/занятия/f-tasks/obj/Debug/net10.0/f-tasks.pdb
 /Users/igooorrrrr/Desktop/занятия/f-tasks/obj/Debug/net10.0/f-tasks.genruntimeconfig.cache
 /Users/igooorrrrr/Desktop/занятия/f-tasks/obj/Debug/net10.0/ref/f-tasks.dll
+/Users/igooorrrrr/Desktop/занятия/f-tasks/obj/Debug/net10.0/f-tasks.sourcelink.json
