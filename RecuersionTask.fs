@@ -15,7 +15,3 @@ let rec sum2 = function
  | (m,0) -> m
  | (m,n) -> m + n + sum2 (m,n-1)
 
-
-printf "%d " (fibo 7)
-printf "%d " (sum 4)
-printf "%d " (sum2 (4,5))
