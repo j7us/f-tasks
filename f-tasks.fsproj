@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="MatchTask.fs" />
+    <Compile Include="RecuersionTask.fs" />
   </ItemGroup>
 
 </Project>
