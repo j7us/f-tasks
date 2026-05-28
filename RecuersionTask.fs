@@ -13,7 +13,7 @@ let rec sum = function
 
 // 7.1.3
 let rec sum2 = function 
- | (m,n) when m < 0 || n < 0 -> 0
+ | (m,n) when n < 0 -> 0
  | (m,0) -> m
  | (m,n) -> m + n + sum2 (m,n-1)
 
