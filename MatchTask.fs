@@ -12,5 +12,3 @@ let days_in_month = function
     | 11  -> 30
     | 12  -> 31
     | _ -> 0
-
-printfn "%d" (days_in_month 6)
