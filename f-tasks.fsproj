@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="RecuersionTask.fs" />
+    <Compile Include="PredicateTask.fs" />
   </ItemGroup>
 
 </Project>
