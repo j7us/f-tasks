@@ -4,7 +4,9 @@ let rec pow = function
  | (s, n) -> s + pow(s,n-1) 
 
 // 17.2
-let rec isIthChar(s: string,n,c) = s.[n] = c
+let rec isIthChar = function
+ | (s,n,c) when (n >= String.length s) || n < 0 -> false
+ | (s: string,n,c) ->  s.[n] = c
 
 let calc = function
  | (s:string,n,c) when s.[n] = c -> 1
@@ -12,5 +14,6 @@ let calc = function
 
 // 17.3
 let rec occFromIth = function
+ | (s,n,c) when n < 0 -> 0
  | (s,n,c) when n >= String.length s -> 0
  | (s,n,c) -> calc(s,n,c) + occFromIth(s, (n+1), c)
