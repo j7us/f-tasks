@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("f-tasks")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d21971138b81a3cf7c8d812e2374c6c4dfe8a5c4")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aa2de00d21742a89d4cc42e347d386453ef32cd")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("f-tasks")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("f-tasks")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
