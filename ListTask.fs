@@ -22,4 +22,3 @@ let evenn n =
     | (x, a) -> x :: listEvCreator (x + 2, a - 1)
   if n > 0 then listEvCreator (0, n) else []
 
-printfn "%A" (evenn 1)
