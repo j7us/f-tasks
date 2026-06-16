@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="ListTask.fs" />
+    <Compile Include="SecondListTasks.fs" />
   </ItemGroup>
 
 </Project>
